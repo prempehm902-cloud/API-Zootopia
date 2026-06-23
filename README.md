@@ -1,4 +1,6 @@
-# My Awesome Project
+## Animal Information Generator
+
+## Project Description
 
 This project does amazing things and solves all your problems!
 
